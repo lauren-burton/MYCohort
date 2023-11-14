@@ -2,4 +2,4 @@ The time or name of your cohort:
 MY(Laurens)Cohort
 
 First names of all your cohort classmates:
-Sarah, Hamlet, Charles, John, Ezra, Gunner, Kevin, Stephen
+Sarah, Hamlet, Charles, John, Ezra, Gunner Hessing, Kevin, Stephen
